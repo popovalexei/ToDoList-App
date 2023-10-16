@@ -1,20 +1,27 @@
-To-Do List App
+# To-Do List App
 
-This is a simple To-Do List App created using JavaScript, HTML, CSS and ReactJS. With this app, you can easily create and manage your daily tasks in a simple and organized way. The app allows you to add items to a list and delete them as needed.
+The To-Do List App is a straightforward task management application built with ReactJS, JavaScript, HTML, CSS. This user-friendly app enables efficient organization and management of daily tasks in a simple and structured manner. Users can easily add tasks to the list and remove them as needed.
 
-Features:
-- Add a new task to the list
-- Delete a task from the list
+## Features
 
-Installation:
+- Add new tasks to the list
+- Delete tasks from the list
 
-To use this app, you need to have Node and NPM installed on your local machine. 
-You can simply clone the repository and open it in your preferred code editor, or you can download the project as a ZIP to your computer. Open the terminal and cd into the project folder. Then run 'npm install' to install all the dependencies, and 'npm start' to start the app in your browser. The app will be running on http://localhost:3000.
+## Installation
 
-Usage:
+To use the To-Do List App, ensure that Node.js and NPM are installed on your local machine. Follow these simplified steps for installation:
 
-To add a new task to the list, simply type in the task name in the input field and click on the "Add" button. The task will be added to the list as a bullet point. To delete a task, simply click on the task name and it will delete it from the list. 
+1. Clone the repository or download the ZIP file to your computer.
+2. Open your preferred code editor and navigate to the project folder.
+3. Open the terminal and run 'npm install' to install all the dependencies.
+4. Run 'npm start' to launch the app in your browser. The app will be accessible at http://localhost:3000.
 
-Acknowledgments:
+## Usage
 
-This app was created as a project for Udemy's Web Development course/program, for CV purposes.
+Adding a new task to the list is straightforward. Type the task name in the input field and click the "Add" button. The task will be appended to the list as a bullet point. To delete a task, click on the corresponding task name, and it will be removed from the list.
+
+## Acknowledgments
+
+This app was developed as part of a project for Udemy's Web Development course, serving as a demonstration of practical skills for professional purposes.
+
+Feel free to contribute to the project or provide any suggestions for improvement.
